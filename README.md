@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![banner](https://github.com/TeekshaHarish/TeekshaHarish/blob/main/banner.png)-->
+
 <h1 align="center">Hi 👋, I'm Teeksha Harish</h1>
 <h3 align="center">A tech enthusiast and full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
